@@ -40,4 +40,4 @@ If you would like to help the continued efforts of this project, any size [donat
 
 ### License
 
-MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
+MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)# political
